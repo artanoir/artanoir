@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Java /play ohmy<br>
+🌱 I’m currently learning Java<br>
 🤔 looking for help<br>
 📫 Sand me feedback: @artanoir
+
 
 
 <!--
