@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+>🌱 I’m currently learning Java<br>
+>🤔 looking for help<br>
+
+- 📫 Reach me: @artanoir
+
+
 <!--
 **artanoir/artanoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
