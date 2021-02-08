@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Java<br>
 🤔 looking for help<br>
-📫 Sand me feedback: @artanoir
+📫 Sand me: @artanoir
 
 
 
